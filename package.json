@@ -20,7 +20,8 @@
     "gulp-livereload": "^1.2.0",
     "gulp-coffee": "git://github.com/t3chnoboy/gulp-coffee.git",
     "coffee-script": "git://github.com/alubbe/coffee-script.git#1e377ed59bc4f679863b7543f0c33d1f89dbf6ac",
-    "gulp-imagemin": "~0.1.5"
+    "gulp-imagemin": "~0.1.5",
+    "stylus": "~0.42.3"
   },
   "dependencies": {
     "co": "^3.0.4",
